@@ -1,6 +1,6 @@
 from functools import lru_cache
 from pydantic import BaseSettings
-
+chat changes
 
 class Settings(BaseSettings):
     env_name: str = "Local"
